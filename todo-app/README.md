@@ -71,8 +71,5 @@ The application uses `morgan` for HTTP logging and `winston` for application-lev
 ## Error Handling
 Global error handling middleware is implemented to provide user-friendly error messages.
 
-## ER Diagram
-An ER diagram illustrating the relationships between users and tasks can be found in the `ER-diagram.png` file.
-
 ## License
 This project is licensed under the MIT License.
